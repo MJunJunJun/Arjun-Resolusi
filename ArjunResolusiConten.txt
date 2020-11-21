@@ -1,7 +1,8 @@
 Rencana Konten Arjun
 - C++
    *Basic Alpro
-- C#
+   *kalkulator
+   *penjumlahan
 - Struktur data
 -  Unity
     *AR
