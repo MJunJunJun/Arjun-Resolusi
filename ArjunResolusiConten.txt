@@ -1,8 +1,6 @@
 Rencana Konten Arjun
 - C++
-- C#
-   *Online MultiPlayer
-- Struktur data
 -  Unity
     *AR
     * Game
+- Scratch
